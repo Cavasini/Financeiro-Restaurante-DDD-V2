@@ -1,0 +1,8 @@
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 00:39:17
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 00:39:35
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 00:48:10
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 00:48:33
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 14:34:11
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 18:52:08
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 22:31:55
+Valor: 119,00, Comanda: 1, Data e Hora: 03/09/2024 22:32:12

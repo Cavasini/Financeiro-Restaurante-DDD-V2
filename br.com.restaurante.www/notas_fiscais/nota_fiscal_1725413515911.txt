@@ -1,0 +1,8 @@
+----------- NOTA FISCAL -----------
+Item                      Quant    Preço Unit   Total       
+Hambúrguer Clássico       3        15,00        45,00       
+Lasanha Bolonhesa         2        30,00        60,00       
+Suco Natural              2        7,00         14,00       
+-----------------------------------
+Total da Comanda: 119,00
+Obrigado pela sua preferência!
