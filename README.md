@@ -41,4 +41,4 @@ A classe `Financeiro` realiza as operações financeiras principais, como pagame
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Cavasini/Financeiro-Resutante-DDD-V2
+   git clone https://github.com/Cavasini/Financeiro-Restaurannte-DDD-V2
